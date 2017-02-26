@@ -1,0 +1,52 @@
+Host: lpt.liepin.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://lpt.liepin.com/soresume/showcondition/
+Connection: keep-alive
+
+filterDownload=1
+searchLevel=0
+keysRangType
+keys
+dqs
+contains_wantdq=1
+industrys
+jobtitles
+workyears
+age=18,22
+sex=女
+updateDate
+yearSalarylow
+yearSalaryhigh
+wantYearSalaryLow
+wantYearSalaryHigh
+userStatus
+language_content
+
+pageSize=20
+contains_wantdq=1
+searchKey=148714537066035686842
+filterKey=148714537066035686842
+degrade=false
+curPage=4
+csCreateTimeFlag
+csCreateTime
+csId
+keysRangType
+keys
+searchLevel=0
+language_content
+yearSalarylow
+yearSalaryhigh
+wantYearSalaryLow
+wantYearSalaryHigh
+workyears
+age=18,22
+sex=女
+updateDate
+userStatus
+filterDownload=1
+sortflag
+pn=5
